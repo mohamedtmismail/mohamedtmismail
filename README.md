@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Ismail (@secretMeedo)
 - 👀 I’m interested in Machine learning and Genetic Algorithms but also like learning new things
-- 🌱 I’m currently learning Natural Language processing
+- 🌱 I’m currently learning about Salesforce @Brightgen
 - 💞️ I’m looking to collaborate on Machine learning/ web apps/ crypto or blockchain applications
 - 📫 How to reach me? Email is the best way but my phone number is also available on request
 
