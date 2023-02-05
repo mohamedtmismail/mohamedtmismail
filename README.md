@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed Ismail (@secretMeedo)
-- 👀 I’m interested in Machine learning and Genetic Algorithms but also like learning new things
-- 🌱 I’m currently learning about Blockchain and front end web dev
-- 💞️ I’m looking to collaborate on Machine learning/ web apps/ crypto or blockchain applications
+- 👀 I’m interested in beautiful international UI 
+- 🌱 I’m currently learning front end web dev
+- 💞️ I’m looking to collaborate on web apps/ RTL UI
 - 📫 How to reach me? Email is the best way but my phone number is also available on request
 
 <!---
