@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Ismail (@secretMeedo)
-- 👀 I’m interested in beautiful international UI 
+- 👀 I’m interested in beautiful UI 
 - 🌱 I’m currently learning front end web dev
 - 💞️ I’m looking to collaborate on web apps/ RTL UI
 - 📫 How to reach me? Email is the best way but my phone number is also available on request
