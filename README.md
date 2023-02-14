@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mohamed Ismail (@secretMeedo)
-- 👀 I’m interested in beautiful UI 
-- 🌱 I’m currently learning front end web dev
-- 💞️ I’m looking to collaborate on web apps/ RTL UI
-- 📫 How to reach me? Email is the best way but my phone number is also available on request
+- 👀 I’m interested in open-source projects with a good purpose
+- 🌱 I’m currently learning to optimize code
+- 📫 How to reach me? Email, issues and comments in discussions all work just fine
 
 <!---
 secretMeedo/secretMeedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
