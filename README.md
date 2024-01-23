@@ -4,7 +4,8 @@
 
 <ul>
   <li>💼 Software Engineer at <a href="https://ism-uk.com/">ISM</a></li>
-  <li>👨‍🏫 Volunteer Coding-Club & Refugee-Teaching  Project Leader <a href="https://www.facebook.com/vteamessex/">VTeam</a></li>
+  <li>👨‍💻 Family IT guy</li>
+  <li>⛔ I won't hack your friend's facebook</li>
 </ul>
 
 <br>
