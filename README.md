@@ -17,5 +17,5 @@
 <h2 align="left">Skills</h2>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,jenkins" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,next,vercel,tailwind,vue,react,threejs" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,next,vercel,tailwind,react" /><br>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,raspberrypi,py" /><br><br>
